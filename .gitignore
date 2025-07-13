@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.env/
+
+# Output & DB
+output/*.db
+output/*.log
+output/*.csv
+key.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode / PyCharm settings (opsional)
+.vscode/
+.idea/
