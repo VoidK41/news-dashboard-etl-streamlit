@@ -44,7 +44,7 @@ Built entirely in **Python**, it shows how to combine simple ETL with real-world
 
 > 📸 Add preview image here like:
 >
-> ![Preview](./overlay_news_dashboard.png)
+> ![Preview](screenshot.png)
 
 ---
 
